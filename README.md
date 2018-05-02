@@ -11,7 +11,9 @@ A basic app to mimic Siri where commands are executed based on user input to ret
    * [Request](https://www.npmjs.com/package/request)
 
    * [DotEnv](https://www.npmjs.com/package/dotenv)
-   
+
+   * [OMDB](http://www.omdbapi.com/)
+
    
 2.  You will also need to create your own .env file with the following information filled in replacing the values with your API keys:
 
