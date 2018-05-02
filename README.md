@@ -41,4 +41,4 @@ spotify-this-song: returns track information for the entered track after the com
  
 movie-this: returns movie information based on the movie name typed after the command
  
-do-what-it-says': exectues the action included in the random.txt file
+do-what-it-says: exectues the action included in the random.txt file
