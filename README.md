@@ -34,7 +34,7 @@ TWITTER_ACCESS_TOKEN_SECRET=your-twitter-access-token-secret
 
 OMDB_KEY=your-omdb-api-key
 ```
-3. The following commands typed in will execute specific functions: 
+3. The following commands typed in will execute specific functions: \r\n
 
 my-tweets: will return my most recent 20 tweets
 
