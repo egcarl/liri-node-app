@@ -2,7 +2,7 @@
 
 A basic app to mimic Siri where commands are executed based on user input to retrieve information.
 
-To retrieve the data that will power this app, you'll need to send requests to the Twitter, Spotify and OMDB APIs. You will need these node packages installed:
+1. To retrieve the data that will power this app, you'll need to send requests to the Twitter, Spotify and OMDB APIs. You will need these node packages installed:
 
    * [Twitter](https://www.npmjs.com/package/twitter)
    
@@ -12,7 +12,8 @@ To retrieve the data that will power this app, you'll need to send requests to t
 
    * [DotEnv](https://www.npmjs.com/package/dotenv)
    
-   You will also need to create your own .env file with the following information filled in replacing the values with your API keys (no quotes):
+   
+2.  You will also need to create your own .env file with the following information filled in replacing the values with your API keys:
 
 ```js
 # Spotify API keys
