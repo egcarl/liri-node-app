@@ -12,7 +12,11 @@ A basic app to mimic Siri where commands are executed based on user input to ret
 
    * [DotEnv](https://www.npmjs.com/package/dotenv)
 
-   * [OMDB](http://www.omdbapi.com/)
+   * Not a node package, but you will need to go here for an API key: [OMDB](http://www.omdbapi.com/)
+
+   * Not a node package, but you will need to go here for an API key:  [Spotify](https://developer.spotify.com/my-applications/#!/)
+
+   * Not a node package, but you will need to go here for an API key: [Twitter](https://apps.twitter.com/app/new)
 
    
 2.  You will also need to create your own .env file with the following information filled in replacing the values with your API keys:
