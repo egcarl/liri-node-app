@@ -10,8 +10,6 @@ To retrieve the data that will power this app, you'll need to send requests to t
    
    * [Request](https://www.npmjs.com/package/request)
 
-     * You'll use Request to grab data from the [OMDB API](http://www.omdbapi.com).
-
    * [DotEnv](https://www.npmjs.com/package/dotenv)
    
    You will also need to create your own .env file with the following information filled in replacing the values with your API keys (no quotes):
